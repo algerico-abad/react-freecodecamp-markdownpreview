@@ -1,0 +1,11 @@
+* {
+  margin: 0;
+  padding: 0px;
+  font-family: Inter;
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  height: 100vh;
+}
